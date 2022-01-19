@@ -1,0 +1,7 @@
+<loading hidden="{{loadingHide}}">
+  {{loadingText}}
+</loading>
+<!--pages/view/view.wxml-->
+<view class="viewNr">
+
+</view>
